@@ -1,0 +1,18 @@
+.cart-quantity-button{
+    background-color: transparent !important;
+    color: black !important;
+    border-radius: 50% !important;
+    border-color: #ddd !important;
+    padding: .05rem .5rem !important;
+}
+.cart-custom-buttons{
+    background-color: transparent !important;
+    border: none !important;
+    color: black !important;
+    font-weight: 500 !important;
+}
+.color-green{
+    color: green !important;
+    font-weight: 700 !important;
+    font-size: 11px !important;
+}
